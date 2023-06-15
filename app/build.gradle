@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.unoesc.iot'
-    compileSdk 33
+    compileSdk 27
 
     defaultConfig {
         applicationId "com.unoesc.iot"
